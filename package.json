@@ -1,0 +1,18 @@
+{
+  "name": "super-simple-api-keys-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "openai.js",
+  "scripts": {
+    "opanai": "node openai.js",
+    "gemini": "node gemini.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.17.1",
+    "axios": "^1.7.7"
+  }
+}
